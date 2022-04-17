@@ -14,18 +14,18 @@
   resolved "https://registry.npmmirror.com/@ant-design/icons-react-native/-/icons-react-native-2.3.2.tgz#86e412d1ce8d629534a5d9f45cd3d8f7ca6dae56"
   integrity sha512-ULCN3+elfAsvu71Xa5KODi97Y3P2aUkJm4s8mJaPoRjiU+BR+Y6ejv3vbc40yV62EOdlAOMKhvKbFlsXMjZ2ow==
 
-"@ant-design/react-native@^4.2.0":
-  version "4.2.0"
-  resolved "https://registry.npmmirror.com/@ant-design/react-native/-/react-native-4.2.0.tgz#f06c1fe0caa216398f7dc81ee0419670d237e0f5"
-  integrity sha512-dv7a7xWxAVUSawqsQlxUqJR4HS8QxFJn5SJxTQL4weUrj5ClwDN/tbBthszZuh9rUvUZvPSlDL6UFyh4+IO59w==
+"@ant-design/react-native@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.npmmirror.com/@ant-design/react-native/-/react-native-5.0.0.tgz#001509eabedd9ab69c84b72ee8c7ce64861b9c31"
+  integrity sha512-970KESpIjIVOtcvedBJthnIoGyoo7Hm/A3eddlPAzh8SqlfeaA8orqbrVRXT51b484u4IguFQ9gv4ghtj4VZpA==
   dependencies:
     "@ant-design/icons-react-native" "^2.3.1"
-    "@bang88/react-native-ultimate-listview" "^4.0.0"
+    "@bang88/react-native-ultimate-listview" "^4.1.0"
     "@types/shallowequal" "^1.1.1"
     array-tree-filter "~2.1.0"
     babel-runtime "^6.x"
-    deepmerge "^4.2.2"
     normalize-css-color "^1.0.2"
+    react-native-codegen "^0.0.7"
     react-native-collapsible "^1.6.0"
     react-native-modal-popover "^2.0.1"
     shallowequal "^1.1.0"
@@ -782,7 +782,7 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@bang88/react-native-ultimate-listview@^4.0.0":
+"@bang88/react-native-ultimate-listview@^4.1.0":
   version "4.1.0"
   resolved "https://registry.npmmirror.com/@bang88/react-native-ultimate-listview/-/react-native-ultimate-listview-4.1.0.tgz#efff14ce5a09e8c52116580cdfa17f253faffde2"
   integrity sha512-om2CsUXyr5kPvW1qBL+zGWOLwE7jq+wYCY47eBIRs7GmLqnnhbG2LlTHhnid8NI4q2/DQsEVfu8oWk15Atb7BA==
